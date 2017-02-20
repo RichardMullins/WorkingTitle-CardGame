@@ -1,2 +1,2 @@
 # WorkingTitle-CardGame
-This repo holds the rules for our new card game
+This repo holds the rules for our card game
